@@ -1,4 +1,4 @@
-Ref: https://codility.com/demo/results/trainingT276N8-QAF/
+// Ref: https://codility.com/demo/results/trainingT276N8-QAF/
 
 function solution($N) 
 {
